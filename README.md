@@ -22,24 +22,6 @@ Viruses: These are files that can be very dangerous to a computer due to its abi
 Trojan Horse: The name comes from the anchient device known as the Trojan horse that was responsible for the fall of troy, it is a form of social engineering where a piece of software is hidden within an email or other form of message and is built to bait people into downloading and/or running a piece of software. The package that the horse can contain can be of any kind, so it could not be malicous at all, however it is most common to find malicous malware such as viruses hidden within the trojan to cause harm to a PC.
 
 
+## Procedures in security
 
-
-
-
-Security policy for an organisation Reboot games:
-
-risks:
-
-There are many
-
-- what
-
-- who
-
-- assesment procedures
-
-Data protection protection and regulations 
-
-Disaster recovery plan with justification
-
-
+When looking at different types of companies, they all operate in unique ways that allow the people 
