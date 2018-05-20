@@ -1,5 +1,22 @@
 # Procedures-and-protocols
 
+p1 Identify types of security risks to organisation
+
+p2 Describe organisational security procedures.
+
+p3 Identify the potential impact to IT security of incorrect configuration of firewall policies and third party VPNs.
+
+p4 Show, using an example for each, how implementing a DMZ, static IP and NAT in a network can improve Network Security.
+
+p5 Discuss risk assessment procedures.
+
+p6 Explain data protection processes and regulations as applicable to an organisation.
+
+p7 Design and implement a security policy for an organisation.
+
+p8 List the main components of an organisational disaster recovery plan, justifying the reasons for inclusion.
+
+
 This is a repo about the protocols and procedures of security
 
 Within this repo, I will be covering.
@@ -21,7 +38,34 @@ Viruses: These are files that can be very dangerous to a computer due to its abi
 
 Trojan Horse: The name comes from the anchient device known as the Trojan horse that was responsible for the fall of troy, it is a form of social engineering where a piece of software is hidden within an email or other form of message and is built to bait people into downloading and/or running a piece of software. The package that the horse can contain can be of any kind, so it could not be malicous at all, however it is most common to find malicous malware such as viruses hidden within the trojan to cause harm to a PC.
 
+Rootkit: Rootkits are quite unique when looking at multiple different malicious software, this is because of how it hides itself from the computer and any security software that is scanning for it. The rootkit looks at manual behaviour of the system, this can be from scanning for different activity within the system annd concealing itself. Because of this the process of removing this process can be a lot different, this can mean that rootkits can be much more dangerous than other software.
+
+Worm: This is the most common type of malware,
+
+
 
 ## Procedures in security
 
 When looking at different types of companies, they all operate in unique ways that allow the people 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
