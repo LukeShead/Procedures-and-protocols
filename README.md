@@ -56,18 +56,23 @@ Many companies have fallen victim to being socially engineered to cause a breach
 
 ## Procedures in security
 
-When looking at different types of companies, they all operate in unique ways that allow the people 
+When looking at different types of companies, they all operate in unique ways that allow the their employees to operate within a set procedures, these will be in place in order to allow the company to remain in a set motion, this is also to allow better security within a company, for example one procedure that a company may always need is to have a form of ID when coming into the building, this means that only people that are allowed access within the building can get in. This procedure allows the company to choose who they want to enter the company and has a way of protecting it from unwanted individuals. 
 
+In reboot games, the procedures for security are similar and provide an added layer of protection for the company, some of the procedures that reboot games use are:
 
+ID pass:
+In the college that reboot games resides in, there are gates that an individual must get through in order to have access into the college, for this you must either be on the system or have an ID card that can grant access through the gates, the ID pass can be retrieved from the college itself and puts your identity onto the college system. In order to bypass this procedure, the individual would need to obtain one of these ID cards and identity theft. The procedure in steps would look like:
 
+Enter college --- Approach Gate --- Hold correct ID card in hand --- Place card over required area --- Wait for light to turn green --- wait for gates to open --- Walk through gate opening --- Wait for gate to close behind.
 
+The steps for this procedure are very basic and despite this they are important when taking safety into consideration, this is because the simple method of ID cards can be very effective at stopping unwanted individuals or groups from coming into the college without being caught.
 
+Door Lock:
+Not only is an ID card required to get into the college, but also some of them can be used to unlock certain areas within the college, many doors in the college cannot be opened without a valid pass, this means only people that need to use the room and can use it responsibly will be able to enter them. People with ID passes that can come into the college may not be able to access these rooms, this is to make sure that only more trusted individuals can have access to the room. In order to gain access the ID card that you have must be authorized to access these areas, the procedure in order to access the door is:
 
+Enter college --- pass gate with normal measures --- Identify door that you want to access --- Ensure you have authroization to access the room --- Place ID card on required area --- Wait for red light to turn green --- Proceed to push or pull the door to open.
 
-
-
-
-
+The steps are in place in order to make sure that anyone that would make it into the college would also then have another step in order to make it into more important areas, this increases the security of the area as it is another step for any attacker to bypass.
 
 
 
