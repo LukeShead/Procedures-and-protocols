@@ -74,7 +74,8 @@ Enter college --- pass gate with normal measures --- Identify door that you want
 
 The steps are in place in order to make sure that anyone that would make it into the college would also then have another step in order to make it into more important areas, this increases the security of the area as it is another step for any attacker to bypass.
 
-
+Regular pat-downs:
+It is a security procedure that occurs occasionally and it is a pat-down, this is done by having metal detectors, in front of the gates, this allows staff to search students.
 
 
 
