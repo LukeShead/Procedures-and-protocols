@@ -54,7 +54,6 @@ This can lead to any of the malware above to be implemented, however social engi
 
 Many companies have fallen victim to being socially engineered to cause a breach, this is caused by the unpredictability of the attacks, whilst hacks usually follow a specific pattern, social engineering can be completley random as the method changes depending on the person causing the attacks. The method of entry can sometimes be very simple, for example many employees have been breached by a USB being found and placed within a computer, these USB's can be programed to install files from insertion, this can mean malware can be injected directly into the system from an internal system, this can mean that a lot of damage can occur from this.
 
-
 ## Procedures in security
 
 When looking at different types of companies, they all operate in unique ways that allow the people 
