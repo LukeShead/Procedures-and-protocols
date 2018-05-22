@@ -107,7 +107,7 @@ Many companies or people at home can use a variety of methods in order to protec
 
 Whilst having these implemented are extremely useful for whoever sets it up, there can be very big drawbacks when using third party VPN's, since it is a private network, it needs to have a provider, many different companies offer VPN's however it can be quite risky when acquiring a VPN this way. This is because whilst it is a private network, there are many ways that the data within this network can be leaked. Whether by accident or intentional, there can be leaks of data that can betray the entire point of the private network and can impact a company quite heavily depending on the type of data leaked, if the data is extremely important then it could potentially be fatal for the business.
 
-
+VPN's can keep data safe when being transferred across systems, 
 
 
 
