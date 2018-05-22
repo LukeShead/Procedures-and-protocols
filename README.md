@@ -29,8 +29,6 @@ Explain data protection processes and regulations as applicable to an organisati
 Design and implement a security policy for an organisation.
 List the main components of an organisational disaster  recovery plan, justifying the reasons for inclusion.
 
-
-
 ### The business
 
 This repo will be about the business of reboot games, the business itself is a games production company that focuses on rebooting older titles and making them more modern, this means that in order to design the games, there must be the required software and hardware to allow the company to complete it's tasks and projects. The hardware and software that the company uses is very expensive and some hardware is more fragile. The number of staff inside the business is 15, each person uses the same systems and same software inside the workplace. The company has two owners, one manager and 12 workers, each one has a specific role within the company, this helps the company function well and keeps work completion to a healthy rate. 
