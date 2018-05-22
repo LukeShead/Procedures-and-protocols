@@ -53,20 +53,26 @@ This is the most common type of malware, its purpose is to clone itself and spre
 #### Internal leaks:
 This can otherwise be known as whistleblowers, it is the process of an enployee that holds information that could be vital for a comapny to keep secret to then be exposed and cause the official leak of the information. This can be accidental as there are many ways for a leak to get out, however it is possible for it to be intentional, there can be much to gain by leaking information, because of this there is a lot of risk when handling this information. Most companies will try to solve this issue by having every employee sign a non-discolsure form, this is a form that is used to keep the information of a company to be internal, by signing these forms the employee cannot leak any information from the company that isn't public knowledge, if there was a known leak in the company, the company could sue that person for breaching the form.
 
+#### Data theft
+Some data can be extremely important to a business, that is why it is vital that it can stay within the company and stay internal, or it could be private information and could be sensitive data. Data theft is where someone will use their methods to view and steal data from a company or private user, this can be very beneficial for the thief as information that is private can be sold to various types of companies and groups that can use that information for personal gain.
+
+#### Power cut
+This type of risk can be very unpredictable as there are many different causes for this, a power cut can come from causes like the weather, a lightning strike can cause power cuts as well as failures with the electrical system. These cannot be prepared for other than having regular saves and backups to data, this is because having a risk appear at complete random and cannot be predicted, as well as this all operations and functions being completed on a system will be stopped immediatly because of the cut.
+
 #### Social engineering: 
 This can lead to any of the malware above to be implemented, however social engineering itself is a form of malware implementation, it involves not trying to break vulnerabilities within a security system or software, but through the physical vulnerabilities, this is primarily done by attempting to use the employees of the company to breach the system, this can be done through a variety of different ways, an example of these can be phishing, this the process of using fake emails or advertisements in order to trick people into downloading certain files or running programs that can be dangerous for the system. Other than this many attempts are made in person by leaving USB's or gaining access into the office. 
 
 Many companies have fallen victim to being socially engineered to cause a breach, this is caused by the unpredictability of the attacks, whilst hacks usually follow a specific pattern, social engineering can be completley random as the method changes depending on the person causing the attacks. The method of entry can sometimes be very simple, for example many employees have been breached by a USB being found and placed within a computer, these USB's can be programed to install files from insertion, this can mean malware can be injected directly into the system from an internal system, this can mean that a lot of damage can occur from this.
 
 ### Phishing
-Phishing is the act of sending fake emails or messages to a high number of accounts in order to attempt to trick someone into downloading or running certain malicious programs that can cause a lot of damage to a system. These are very common and can have many different effects depending on the type of file that is downloaded. 
-
+Phishing is the act of sending fake emails or messages to a high number of accounts in order to attempt to trick someone into downloading or running certain malicious programs that can cause a lot of damage to a system. These are very common and can have many different effects depending on the type of file that is downloaded.
 
 
 ### Risk groups
 All of the risks listed can be put into groups, these groups classify the type of risks that they can be shown in, for example some groups are Physical, Data and Social Engineering. 
 
 Physical risks could 
+
 
 ## Procedures in security
 
@@ -110,7 +116,6 @@ Have computer system --- Turn on system and log in --- Enter any working search 
 By having a regular update on a public domain, it means that any needs for keeping information can be catered for as well as this it means that the work will remain safe and cannot be copied as it is covered by the copyright act.
 
 These procedures are all used to cover different potential vulnerabilities that a system can have, the different stages can only be bypassed if certain procedures are already met, for example unless an ID card is present, the door will not be unlocked. This shows how by having simple security procedures, a company can keep themeselves much safer.
-
 
 
 ## Potential impact to IT security of incorrect configuration of firewall policies and third party VPNs
