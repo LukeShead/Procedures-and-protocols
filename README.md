@@ -79,12 +79,14 @@ This is where instead of using a form of ID when having a security procedure, ma
 
 Enter building --- Make way to code pad --- Make sure to retrieve code and remember --- Enter correct code into code pad --- Wait for code pad to accept code and unlock door --- Open door of pull or push --- Enter doorway
 
+The steps of the code pad can be replicated easily if the code is known, if the code is not retrieved then the further steps are not able to be completed, therefore not being able to open the door. This allows for a safer company building as unless someone leaks the information or it is accidentally shown to someone, the door cannot be bypassed.
+
 #### Regular pat-downs:
 It is a security procedure that occurs occasionally and it is a pat-down, this is done by having metal detectors, in front of the gates, this allows staff to search students, this can help keep the college and reboot games safe as it can stop any dangerous items from entering the college and therefore reboot games. This search is done by the police and can be very beneficial for the college as having dangerous items within the college can cause many issues with people.
 
 Enter college --- Wait in line --- Move forward in queue until reach metal detectors --- Listen to police's instructions --- Walk through the metal detector --- Be patted down --- Retrieve items --- Continue on through the day
 
-The procedure is possible to be changed within the different stages with the event of items being found or bigger or smaller queue.
+The procedure is possible to be changed within the different stages with the event of items being found or bigger or smaller queue. If this would happen then it would change to be dealing with that problem, otherwise if there isn't a queue you can skip that step entirely.
 
 
 
