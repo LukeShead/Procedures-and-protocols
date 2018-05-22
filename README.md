@@ -31,7 +31,11 @@ List the main components of an organisational disaster  recovery plan, justifyin
 
 ### The business
 
-This repo will be about the business of reboot games, the business itself is a games production company that focuses on rebooting older titles and making them more modern, this means that in order to design the games, there must be the required software and hardware to allow the company to complete it's tasks and projects. The hardware and software that the company uses is very expensive and some hardware can be very fragile. The number of staff inside the business is 15, each person uses the same systems and same software inside the workplace. The company has two owners, one manager and 12 workers, each one has a specific role within the company, this helps the company function well and keeps work completion to a healthy rate. 
+This repo will be about the business of reboot games, the business itself is a games production company that focuses on rebooting older titles and making them more modern, this means that in order to design the games, there must be the required software and hardware to allow the company to complete it's tasks and projects. The hardware and software that the company uses is very expensive and some hardware can be very fragile. The number of staff inside the business is 15, each person uses the same systems and same software inside the workplace.
+
+The company has two owners, one manager and 12 workers, each one has a specific role within the company, this helps the company function well and keeps work completion to a healthy rate. The customers of the business are all clients that want problems to be solved, they will come into the business with a proposition which will be debated and have terms agreed. The projects usually run with SCRUM with weekly sprints, this is how most projects are completed unless it needs a diffferent style.
+
+
 
 
 ### Threats an organisation will face
@@ -127,7 +131,7 @@ Whilst having these implemented are extremely useful for whoever sets it up, the
 VPN's can keep data safe when being transferred across systems, however it isn't the only thing that can protect data when being transferred, it is common knowledge of what firewalls do, they protect your computer from bad packets that are coming into the system. However because of how it functions by allowing access to some packets and blocking packets that aren't allowed in, whether it is because they are harmful or because it is against the admins rules. If the firewall in configured incorrectly, it can mean that many packets that are not harmful but actually important can be lost when sent, this can cause many private data to be lost that is vital for the user. Having data lost within the system that is important to certain projects can cause many different problems ranging from trivial to fatal, also from the other side, properly configured firewalls keep malicious packets out whereas firewalls that are not properly configured will allow malicious packets in after thinking they are good.
 
 
-
+## 
 
 
 
