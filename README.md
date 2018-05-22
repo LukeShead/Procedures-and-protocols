@@ -31,7 +31,7 @@ List the main components of an organisational disaster  recovery plan, justifyin
 
 ### The business
 
-This repo will be about the business of reboot games, the business itself is a games production company that focuses on rebooting older titles and making them more modern, this means that in order to design the games, there must be the required software and hardware to allow the company to complete it's tasks and projects. The hardware and software that the company uses is very expensive and some hardware is more fragile. The number of staff inside the business is 15, each person uses the same systems and same software inside the workplace. The company has two owners, one manager and 12 workers, each one has a specific role within the company, this helps the company function well and keeps work completion to a healthy rate. 
+This repo will be about the business of reboot games, the business itself is a games production company that focuses on rebooting older titles and making them more modern, this means that in order to design the games, there must be the required software and hardware to allow the company to complete it's tasks and projects. The hardware and software that the company uses is very expensive and some hardware can be very fragile. The number of staff inside the business is 15, each person uses the same systems and same software inside the workplace. The company has two owners, one manager and 12 workers, each one has a specific role within the company, this helps the company function well and keeps work completion to a healthy rate. 
 
 
 ### Threats an organisation will face
@@ -57,6 +57,16 @@ This can otherwise be known as whistleblowers, it is the process of an enployee 
 This can lead to any of the malware above to be implemented, however social engineering itself is a form of malware implementation, it involves not trying to break vulnerabilities within a security system or software, but through the physical vulnerabilities, this is primarily done by attempting to use the employees of the company to breach the system, this can be done through a variety of different ways, an example of these can be phishing, this the process of using fake emails or advertisements in order to trick people into downloading certain files or running programs that can be dangerous for the system. Other than this many attempts are made in person by leaving USB's or gaining access into the office. 
 
 Many companies have fallen victim to being socially engineered to cause a breach, this is caused by the unpredictability of the attacks, whilst hacks usually follow a specific pattern, social engineering can be completley random as the method changes depending on the person causing the attacks. The method of entry can sometimes be very simple, for example many employees have been breached by a USB being found and placed within a computer, these USB's can be programed to install files from insertion, this can mean malware can be injected directly into the system from an internal system, this can mean that a lot of damage can occur from this.
+
+### Phishing
+Phishing is the act of sending fake emails or messages to a high number of accounts in order to attempt to trick someone into downloading or running certain malicious programs that can cause a lot of damage to a system. These are very common and can have many different effects depending on the type of file that is downloaded. 
+
+
+
+### Risk groups
+All of the risks listed can be put into groups, these groups classify the type of risks that they can be shown in, for example some groups are Physical, Data and Social Engineering. 
+
+Physical risks could 
 
 ## Procedures in security
 
@@ -100,6 +110,8 @@ Have computer system --- Turn on system and log in --- Enter any working search 
 By having a regular update on a public domain, it means that any needs for keeping information can be catered for as well as this it means that the work will remain safe and cannot be copied as it is covered by the copyright act.
 
 These procedures are all used to cover different potential vulnerabilities that a system can have, the different stages can only be bypassed if certain procedures are already met, for example unless an ID card is present, the door will not be unlocked. This shows how by having simple security procedures, a company can keep themeselves much safer.
+
+
 
 ## Potential impact to IT security of incorrect configuration of firewall policies and third party VPNs
 
