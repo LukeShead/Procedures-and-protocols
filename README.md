@@ -66,16 +66,23 @@ This type of risk can be very unpredictable as there are many different causes f
 #### Social engineering: 
 This can lead to any of the malware above to be implemented, however social engineering itself is a form of malware implementation, it involves not trying to break vulnerabilities within a security system or software, but through the physical vulnerabilities, this is primarily done by attempting to use the employees of the company to breach the system, this can be done through a variety of different ways, an example of these can be phishing, this the process of using fake emails or advertisements in order to trick people into downloading certain files or running programs that can be dangerous for the system. Other than this many attempts are made in person by leaving USB's or gaining access into the office. 
 
+#### USB baiting
 Many companies have fallen victim to being socially engineered to cause a breach, this is caused by the unpredictability of the attacks, whilst hacks usually follow a specific pattern, social engineering can be completley random as the method changes depending on the person causing the attacks. The method of entry can sometimes be very simple, for example many employees have been breached by a USB being found and placed within a computer, these USB's can be programed to install files from insertion, this can mean malware can be injected directly into the system from an internal system, this can mean that a lot of damage can occur from this.
 
-### Phishing
+#### Phishing
 Phishing is the act of sending fake emails or messages to a high number of accounts in order to attempt to trick someone into downloading or running certain malicious programs that can cause a lot of damage to a system. These are very common and can have many different effects depending on the type of file that is downloaded.
 
+#### Fire/Flood
+In the event of a fire, the rule is to evacuate the building with different exits that are marked to be used as fire exits, the general consensus is that all belongings are left in the building and the safety of the individual is priority, because of this in an event of a fire all belongings including the hardware would stay behind, this means the risk of damage or potentially destroying it completely. In the event of a flood, it follows a similar process where the building will be left with all hardware, these risks can be natural and as of such it can mean that they cannot be planned for.
 
 ### Risk groups
 All of the risks listed can be put into groups, these groups classify the type of risks that they can be shown in, for example some groups are Physical, Data and Social Engineering. 
 
-Physical risks could 
+Physical risks is the category of which the risks will involve some form of physical interaction with the system or user, for example the fire or flood risk, this risk include physical harm coming to the computer systems, by it being physical, the solutions are not to do with any form of software but keeping the hardware safe instead, because of this physical risks can be difficult to plan for. Other than this there is the power cut risk which can either hinder or cause many problems with progress of projects if it occurs, this also cannot be predicted most of the time.
+
+Data risks are risks that involve a form of data tampering, whether it is corruption, destruction or even theft, the data risks are risks that if successful in showing it's function, then it will affect the data within the system and will change depending on what type of risk it is. Some risks that will appear in this will be Worm, Trojan Horse and Rootkit as they all infect a system and affect data in some malicious way, because it is to do with software and data being affected, it can be prevented through many different detection software as well as scans on the systems in the business regularly.
+
+Another one is social engineering, this is the risk group that is all about the social engineering techniques, this is where the attacker will focus the user of the systems in order to gain access. The risks that will be put into them will be Phishing and USB baiting. The biggest way to prevent these attacks are to keep the employees at reboot games updated on types of attacks and making sure that proper security knowledge is known, this will help in case anyone does not understand those forms of attacks.
 
 
 ## Procedures in security
