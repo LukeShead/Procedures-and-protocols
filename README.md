@@ -30,6 +30,12 @@ Design and implement a security policy for an organisation.
 List the main components of an organisational disaster  recovery plan, justifying the reasons for inclusion.
 
 
+
+### The business
+
+This repo will be about the business of reboot games, the business itself is a games production company that focuses on rebooting older titles and making them more modern, this means that in order to design the games, there must be the required software and hardware to allow the company to complete it's tasks and projects. The hardware and software that the company uses is very expensive and some hardware is more fragile. The number of staff inside the business is 15, each person uses the same systems and same software inside the workplace. The company has two owners, one manager and 12 workers, each one has a specific role within the company, this helps the company function well and keeps work completion to a healthy rate. 
+
+
 ### Threats an organisation will face
 
 In an organisation, there are many threats that have to be prevented in order for a company to run smoothly, this can come from a range of sources from hackers with viruses to employees with poor decision making, because of these organisations will have methods to help prevent from the risks of the company. In order to prevent malicous exploits, companies must know almost every tyoe of exploit, internal and external, some of these are:
@@ -88,12 +94,20 @@ Enter college --- Wait in line --- Move forward in queue until reach metal detec
 
 The procedure is possible to be changed within the different stages with the event of items being found or bigger or smaller queue. If this would happen then it would change to be dealing with that problem, otherwise if there isn't a queue you can skip that step entirely.
 
+#### Uploading work
+This process is where the business uploads all work onto the internet in order to be able to allow the owners of the business to view, this process is done on a public domain however is subject to copyright and plagiarism so the work cannot be copied. The work is always on the website but can be updated or manually removed, because of this it means that it is safe place where the work can be stored and only edited if the correct account is logged in.
 
+Have computer system --- Turn on system and log in --- Enter any working search engine --- Enter website Github and login --- Enter repository of choice --- Update information on repository --- Accept changes
 
+By having a regular update on a public domain, it means that any needs for keeping information can be catered for as well as this it means that the work will remain safe and cannot be copied as it is covered by the copyright act.
 
+These procedures are all used to cover different potential vulnerabilities that a system can have, the different stages can only be bypassed if certain procedures are already met, for example unless an ID card is present, the door will not be unlocked. This shows how by having simple security procedures, a company can keep themeselves much safer.
 
+## Potential impact to IT security of incorrect configuration of firewall policies and third party VPNs
 
+Many companies or people at home can use a variety of methods in order to protect their system, many of the methods are common practise, e.g. password safety, firewall etc. One method that people will use is setting up a VPN (Vitual Party Network), VPN's are used to allow safe data transfer online, usually when sending data, the packets would have to travel through public domains in order to be successfuly transferred. However, a VPN is a private connection that involves two ip addresses connecting with each other privatly, this means that when the two systems want to transfer files or data to each other, they can go through a private network rather than risking putting it on a public domain in which it could be seen and tracked.
 
+Whilst having these implemented are extremely useful for whoever sets it up, there can be very big drawbacks when using third party VPN's, since it is a private network, it needs to have a provider, many different companies offer VPN's however it can be quite risky when acquiring a VPN this way. This is because whilst it is a private network, there are many ways that the data within this network can be leaked. Whether by accident or intentional, there can be leaks of data that can betray the entire point of the private network and can impact a company quite heavily depending on the type of data leaked, if the data is extremely important then it could potentially be fatal for the business.
 
 
 
