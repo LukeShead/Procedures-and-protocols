@@ -17,7 +17,7 @@ p7 Design and implement a security policy for an organisation.
 p8 List the main components of an organisational disaster recovery plan, justifying the reasons for inclusion.
 
 
-This is a repo about the protocols and procedures of security
+This is a repo about the protocols and procedures of security within Reboot Games
 
 Within this repo, I will be covering.
 
