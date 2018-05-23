@@ -29,15 +29,25 @@ Explain data protection processes and regulations as applicable to an organisati
 Design and implement a security policy for an organisation.
 List the main components of an organisational disaster  recovery plan, justifying the reasons for inclusion.
 
-### The business
+### The Business Reboot Games
 
 This repo will be about the business of reboot games, the business itself is a games production company that focuses on rebooting older titles and making them more modern, this means that in order to design the games, there must be the required software and hardware to allow the company to complete it's tasks and projects. The hardware and software that the company uses is very expensive and some hardware can be very fragile. The number of staff inside the business is 15, each person uses the same systems and same software inside the workplace.
 
 The company has two owners, one manager and 12 workers, each one has a specific role within the company, this helps the company function well and keeps work completion to a healthy rate. The customers of the business are all clients that want problems to be solved, they will come into the business with a proposition which will be debated and have terms agreed. The projects usually run with SCRUM with weekly sprints, this is how most projects are completed unless it needs a diffferent style.
 
-## Risk Assessment
+## Risk Assessment of Reboot Games
 
-### Threats an organisation can face
+### Risk groups
+All of the risks listed can be put into groups, these groups classify the type of risks that they can be shown in, for example some groups are Physical, Data and Social Engineering. 
+
+Physical risks is the category of which the risks will involve some form of physical interaction with the system or user, for example the fire or flood risk, this risk include physical harm coming to the computer systems, by it being physical, the solutions are not to do with any form of software but keeping the hardware safe instead, because of this physical risks can be difficult to plan for. Other than this there is the power cut risk which can either hinder or cause many problems with progress of projects if it occurs, this also cannot be predicted most of the time.
+
+Data risks are risks that involve a form of data tampering, whether it is corruption, destruction or even theft, the data risks are risks that if successful in showing it's function, then it will affect the data im a cunt within the system and will change depending on what type of risk it is. Some risks that will appear in this will be Worm, Trojan Horse and Rootkit as they all infect a system and affect data in some malicious way, because it is to do with software and data being affected, it can be prevented through many different detection software as well as scans on the systems in the business regularly.
+
+Another one is social engineering, this is the risk group that is all about the social engineering techniques, this is where the attacker will focus the user of the systems in order to gain access. The risks that will be put into them will be Phishing and USB baiting. The biggest way to prevent these attacks are to keep the employees at reboot games updated on types of attacks and making sure that proper security knowledge is known, this will help in case anyone does not understand those forms of attacks.
+
+
+### Threats Reboot Games can face
 
 In an organisation, there are many threats that have to be prevented in order for a company to run smoothly, this can come from a range of sources from hackers with viruses to employees with poor decision making, because of these organisations will have methods to help prevent from the risks of the company. In order to prevent malicous exploits, companies must know almost every tyoe of exploit, internal and external, some of these are:
 
@@ -73,16 +83,6 @@ Phishing is the act of sending fake emails or messages to a high number of accou
 
 #### Fire/Flood
 In the event of a fire, the rule is to evacuate the building with different exits that are marked to be used as fire exits, the general consensus is that all belongings are left in the building and the safety of the individual is priority, because of this in an event of a fire all belongings including the hardware would stay behind, this means the risk of damage or potentially destroying it completely. In the event of a flood, it follows a similar process where the building will be left with all hardware, these risks can be natural and as of such it can mean that they cannot be planned for.
-
-### Risk groups
-All of the risks listed can be put into groups, these groups classify the type of risks that they can be shown in, for example some groups are Physical, Data and Social Engineering. 
-
-Physical risks is the category of which the risks will involve some form of physical interaction with the system or user, for example the fire or flood risk, this risk include physical harm coming to the computer systems, by it being physical, the solutions are not to do with any form of software but keeping the hardware safe instead, because of this physical risks can be difficult to plan for. Other than this there is the power cut risk which can either hinder or cause many problems with progress of projects if it occurs, this also cannot be predicted most of the time.
-
-Data risks are risks that involve a form of data tampering, whether it is corruption, destruction or even theft, the data risks are risks that if successful in showing it's function, then it will affect the data within the system and will change depending on what type of risk it is. Some risks that will appear in this will be Worm, Trojan Horse and Rootkit as they all infect a system and affect data in some malicious way, because it is to do with software and data being affected, it can be prevented through many different detection software as well as scans on the systems in the business regularly.
-
-Another one is social engineering, this is the risk group that is all about the social engineering techniques, this is where the attacker will focus the user of the systems in order to gain access. The risks that will be put into them will be Phishing and USB baiting. The biggest way to prevent these attacks are to keep the employees at reboot games updated on types of attacks and making sure that proper security knowledge is known, this will help in case anyone does not understand those forms of attacks.
-
 
 ## Procedures in security
 
