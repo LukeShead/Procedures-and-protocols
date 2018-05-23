@@ -37,6 +37,8 @@ The company has two owners, one manager and 12 workers, each one has a specific 
 
 ## Risk Assessment of Reboot Games
 
+##### This is a risk assessment on Reboot Games, by identifying and analysing different pieces of software and the damages it can inflict on the system, as well as this the ways that Reboot games can keep itself safe and the security measures that it can implement in order to add security.
+
 ### Risk groups
 All of the risks listed can be put into groups, these groups classify the type of risks that they can be shown in, for example some groups are Physical, Data and Social Engineering. 
 
@@ -48,6 +50,8 @@ Another one is social engineering, this is the risk group that is all about the 
 
 
 ### Threats Reboot Games can face
+
+###### In this section i will be talking about the threats that reboot games and affects in can have on the business.
 
 In an organisation, there are many threats that have to be prevented in order for a company to run smoothly, this can come from a range of sources from hackers with viruses to employees with poor decision making, because of these organisations will have methods to help prevent from the risks of the company. In order to prevent malicous exploits, companies must know almost every tyoe of exploit, internal and external, some of these are:
 
@@ -84,7 +88,9 @@ Phishing is the act of sending fake emails or messages to a high number of accou
 #### Fire/Flood
 In the event of a fire, the rule is to evacuate the building with different exits that are marked to be used as fire exits, the general consensus is that all belongings are left in the building and the safety of the individual is priority, because of this in an event of a fire all belongings including the hardware would stay behind, this means the risk of damage or potentially destroying it completely. In the event of a flood, it follows a similar process where the building will be left with all hardware, these risks can be natural and as of such it can mean that they cannot be planned for.
 
-## Procedures in security
+## Procedures for Reboot games for security
+
+###### In this section I will be going over the different procedures within Reboot Games and how they can be completed, by looking at the different steps in the business and how they can change.
 
 When looking at different types of companies, they all operate in unique ways that allow the their employees to operate within a set procedures, these will be in place in order to allow the company to remain in a set motion, this is also to allow better security within a company, for example one procedure that a company may always need is to have a form of ID when coming into the building, this means that only people that are allowed access within the building can get in. This procedure allows the company to choose who they want to enter the company and has a way of protecting it from unwanted individuals. 
 
@@ -93,35 +99,71 @@ In reboot games, the procedures for security are similar and provide an added la
 #### ID pass:
 In the college that reboot games resides in, there are gates that an individual must get through in order to have access into the college, for this you must either be on the system or have an ID card that can grant access through the gates, the ID pass can be retrieved from the college itself and puts your identity onto the college system. In order to bypass this procedure, the individual would need to obtain one of these ID cards and identity theft. The procedure in steps would look like:
 
-Enter college --- Approach Gate --- Hold correct ID card in hand --- Place card over required area --- Wait for light to turn green --- wait for gates to open --- Walk through gate opening --- Wait for gate to close behind.
+* Enter college 
+* Approach Gate 
+* Hold correct ID card in hand 
+* Place card over required area Wait for light to turn green 
+* wait for gates to open 
+* Walk through gate opening 
+* Wait for gate to close behind.
 
 The steps for this procedure are very basic and despite this they are important when taking safety into consideration, this is because the simple method of ID cards can be very effective at stopping unwanted individuals or groups from coming into the college without being caught.
+
+In the event that the card is not registered or does is not correct then the following steps must be taken
+
+* Enter college
+* Go to reception desk and wait in front
+* If there is queue then wait in queue
+* Talk to receptionist about gaining entry
+* Acquire either a guest pass or stamp to allow you through
+* Continue to desired location
 
 #### Door Lock:
 Not only is an ID card required to get into the college, but also some of them can be used to unlock certain areas within the college, many doors in the college cannot be opened without a valid pass, this means only people that need to use the room and can use it responsibly will be able to enter them. People with ID passes that can come into the college may not be able to access these rooms, this is to make sure that only more trusted individuals can have access to the room. In order to gain access the ID card that you have must be authorized to access these areas, the procedure in order to access the door is:
 
-Enter college --- pass gate with normal measures --- Identify door that you want to access --- Ensure you have authroization to access the room --- Place ID card on required area --- Wait for red light to turn green --- Proceed to push or pull the door to open.
+* Enter college 
+* Pass gate with normal measures 
+* Identify door that you want to access  
+* Ensure you have authroization to access the room  
+* Place ID card on required area  
+* Wait for red light to turn green  
+* Proceed to push or pull the door to open.
 
 The steps are in place in order to make sure that anyone that would make it into the college would also then have another step in order to make it into more important areas, this increases the security of the area as it is another step for any attacker to bypass.
 
-#### Access Code: 
-This is where instead of using a form of ID when having a security procedure, many companies will use a keypad in order to gain access to the building, this can be safer than ID as it cannot be stolen in a physical sense, this is because the code can be remembered from memory as it is only a string of digits and does not rely on a scan of any kind in order to gain access. Instead this can be easier to steal by simply observing, this can be more beneficial or can disrupt a company depending on the attacker as it can be easier or harder.
+In the event of not having a required ID in order to open the door, follow these steps instead
 
-Enter building --- Make way to code pad --- Make sure to retrieve code and remember --- Enter correct code into code pad --- Wait for code pad to accept code and unlock door --- Open door of pull or push --- Enter doorway
-
-The steps of the code pad can be replicated easily if the code is known, if the code is not retrieved then the further steps are not able to be completed, therefore not being able to open the door. This allows for a safer company building as unless someone leaks the information or it is accidentally shown to someone, the door cannot be bypassed.
+* Enter college
+* Pass gate with normal measures
+* Identify door you want to access
+* Find member of staff with required ID access
+* Use their card or have them open the door for you
+* Enter room
 
 #### Regular pat-downs:
 It is a security procedure that occurs occasionally and it is a pat-down, this is done by having metal detectors, in front of the gates, this allows staff to search students, this can help keep the college and reboot games safe as it can stop any dangerous items from entering the college and therefore reboot games. This search is done by the police and can be very beneficial for the college as having dangerous items within the college can cause many issues with people.
 
-Enter college --- Wait in line --- Move forward in queue until reach metal detectors --- Listen to police's instructions --- Walk through the metal detector --- Be patted down --- Retrieve items --- Continue on through the day
+* Enter college 
+* Wait in line 
+* Move forward in queue until reach metal detectors 
+* Listen to police's instructions 
+* Walk through the metal detector
+* Be patted down 
+* Retrieve items 
+* Continue on through the day
 
 The procedure is possible to be changed within the different stages with the event of items being found or bigger or smaller queue. If this would happen then it would change to be dealing with that problem, otherwise if there isn't a queue you can skip that step entirely.
 
 #### Uploading work
 This process is where the business uploads all work onto the internet in order to be able to allow the owners of the business to view, this process is done on a public domain however is subject to copyright and plagiarism so the work cannot be copied. The work is always on the website but can be updated or manually removed, because of this it means that it is safe place where the work can be stored and only edited if the correct account is logged in.
 
-Have computer system --- Turn on system and log in --- Enter any working search engine --- Enter website Github and login --- Enter repository of choice --- Update information on repository --- Accept changes
+* Have computer system 
+* Turn on system and log in 
+* Enter any working search engine 
+* Enter website Github and login 
+* Enter repository of choice 
+* Update information on repository 
+* Accept changes
 
 By having a regular update on a public domain, it means that any needs for keeping information can be catered for as well as this it means that the work will remain safe and cannot be copied as it is covered by the copyright act.
 
