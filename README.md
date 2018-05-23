@@ -35,10 +35,9 @@ This repo will be about the business of reboot games, the business itself is a g
 
 The company has two owners, one manager and 12 workers, each one has a specific role within the company, this helps the company function well and keeps work completion to a healthy rate. The customers of the business are all clients that want problems to be solved, they will come into the business with a proposition which will be debated and have terms agreed. The projects usually run with SCRUM with weekly sprints, this is how most projects are completed unless it needs a diffferent style.
 
+## Risk Assessment
 
-
-
-### Threats an organisation will face
+### Threats an organisation can face
 
 In an organisation, there are many threats that have to be prevented in order for a company to run smoothly, this can come from a range of sources from hackers with viruses to employees with poor decision making, because of these organisations will have methods to help prevent from the risks of the company. In order to prevent malicous exploits, companies must know almost every tyoe of exploit, internal and external, some of these are:
 
@@ -131,17 +130,31 @@ These procedures are all used to cover different potential vulnerabilities that 
 
 ## Potential impact to IT security of incorrect configuration of firewall policies and third party VPNs
 
+#### Third party VPN's and internal leaks
 Many companies or people at home can use a variety of methods in order to protect their system, many of the methods are common practise, e.g. password safety, firewall etc. One method that people will use is setting up a VPN (Vitual Party Network), VPN's are used to allow safe data transfer online, usually when sending data, the packets would have to travel through public domains in order to be successfuly transferred. However, a VPN is a private connection that involves two ip addresses connecting with each other privatly, this means that when the two systems want to transfer files or data to each other, they can go through a private network rather than risking putting it on a public domain in which it could be seen and tracked.
 
 Whilst having these implemented are extremely useful for whoever sets it up, there can be very big drawbacks when using third party VPN's, since it is a private network, it needs to have a provider, many different companies offer VPN's however it can be quite risky when acquiring a VPN this way. This is because whilst it is a private network, there are many ways that the data within this network can be leaked. Whether by accident or intentional, there can be leaks of data that can betray the entire point of the private network and can impact a company quite heavily depending on the type of data leaked, if the data is extremely important then it could potentially be fatal for the business.
 
+#### Database
 VPN's can keep data safe when being transferred across systems, however it isn't the only thing that can protect data when being transferred, it is common knowledge of what firewalls do, they protect your computer from bad packets that are coming into the system. However because of how it functions by allowing access to some packets and blocking packets that aren't allowed in, whether it is because they are harmful or because it is against the admins rules. If the firewall in configured incorrectly, it can mean that many packets that are not harmful but actually important can be lost when sent, this can cause many private data to be lost that is vital for the user. Having data lost within the system that is important to certain projects can cause many different problems ranging from trivial to fatal, also from the other side, properly configured firewalls keep malicious packets out whereas firewalls that are not properly configured will allow malicious packets in after thinking they are good.
 
+## Disaster recovery
 
-## 
+When dealing with risks in a business, there are moments in which if the risk is successful in hindering the business in any major way, then the business must have plans ready to make sure that the damage can be contained and managed so that it does not prove fatal for the business. There are many different steps to make sure that this process of recovery is successful.
 
+### The Recovery process and recovery time
+This is where the business will look at the different pieces of work that they have done and prioritise them depending on their importance on the company, the more important assests of the business will have more protection as if they are lost or stolen, it will be more difficult to recover from, becuase of this, assests that are not as important will not be prioritised and in the event of an attack, will be the first assests that will be lost if it is successful. This step within the disaster recover plan is very important as it means that the major assests are protected and prioritised which in the event of a risk can be very helpful.
 
+The recovery time is the simplist step in the disaster recovery process, this is because it is all about the recovery process being completed as quickly as possible, being able to define a time for the systems and data to be recovered before a disaster occurs means that there will be a more organised recovery plan, and will allow the business know an estimated time of when operations will be running again. As well as this it can be used to identify flaws in the recovery process if there is a system that takes longer than the estimated time taken, it can then be analysed and can be focused on in order to speed up the recovery time of the system.
 
+### Communication plan
+This is called a communication plan amd involves making sure that the communication between the business employees is set to the task at hand and that the right questions are always being asked when the disaster is occuring so that it leads to the disaster being recovered quickly. As communication will be very important during the disaster it means that these plans can be very beneficial for the disaster recovery plan if don correctly.
+
+### Defining roles to employees
+If a disaster occurs, it is important that the employees know exactly what they are doing so that confusion between them is removed, by giving specific tasks within the disaster, it means that there is some more organisation when dealing with the disaster. The biggest part of a successful recovery is being able to keep the process clean and organised and by not defining roles it can mean that there could be chaos within the business whilst trying to deal with the disaster.
+
+### Testing schedule
+By testing regularly it means that the business can see how the disaster recovery operates and they will be able to reflect on the work done by the business and how they delt with the disaster. It also prepares people for the disaster if it does occur and gives people an idea of how the process works ultimatly giving a higher chance of success if a disaster occurs.
 
 
 
