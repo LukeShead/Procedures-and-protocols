@@ -179,8 +179,6 @@ If there is not internet to upload work then follow these steps instead
 
 These procedures are all used to cover different potential vulnerabilities that a system can have, the different stages can only be bypassed if certain procedures are already met, for example unless an ID card is present, the door will not be unlocked. This shows how by having simple security procedures, a company can keep themeselves much safer.
 
-
-
 ## Increasing security in the business
 ###### This section is about different ways that Reboot Games can use in order to increase security within the business.
 
