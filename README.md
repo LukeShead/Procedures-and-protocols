@@ -128,7 +128,26 @@ By having a regular update on a public domain, it means that any needs for keepi
 These procedures are all used to cover different potential vulnerabilities that a system can have, the different stages can only be bypassed if certain procedures are already met, for example unless an ID card is present, the door will not be unlocked. This shows how by having simple security procedures, a company can keep themeselves much safer.
 
 
-## Potential impact to IT security of incorrect configuration of firewall policies and third party VPNs
+
+## Increasing security in the business
+
+
+### Network security
+
+#### DMZ's
+A DMZ or a Demilitarized Zon is a sub network with the function of splitting and separating an internal or private home LAN from any public networks, this can be used to allow people to access a webpage being hosted on the network, but not be able to access the home network from that. For example an email server can be placed in a DMZ and allow different groups to access the servers, this can come from an internal source or external, however as the server is disconnected from the main LAN it cannot be accessed through the email server. 
+
+Adding one of these can be extremely helpful to a companies business as the servers will be able to be safely accessed by all sources without putting the main LAN in danger from being damaged, this can be very important for a company as it means that their personal server is still disconnected from the server clients are accessing. This adds another layer of security to the business and allows safer server management, as well as the event of an attack can much safer as it will only affect the DMZ and not the LAN.
+
+#### Static IP's
+The IP address is used to give a network an address similar to how house numbers and street names work, the IP address can be used to locate the different networks, because of this it can be used to locate if any malicious intent was given. Because it is the address of the network, it is vital for networks to communicate with each other. The difference of a static IP is that it is a manually configured IP that built for a specific device, and will always stay the same with the device unlike IP's that will change with the network.
+
+By having a static IP address it means that security measures can be added to that specific IP address which allows for a lot more configuration and security where as a firewall that follows an ever-changing IP cannot. This method is a consistent way to add another layer of security, although not too thick, the layer that this can add is a very simple and easy way to protect a certain device within the network.
+
+#### NAT
+An Network Address Translation or NAT is a method of giving a device a that is within a private network a public address, the new address will be correctly configured in order to add a layer of security. Because it has this new IP address, the internal IP is hidden and when the network is accessed, it will be accessed by the new public IP instead of the private one, this can add more security to some attacks as the IP address can be targeted in order to access the device however with the public address covering the private.
+
+### Potential impact to IT security of incorrect configuration of firewall policies and third party VPNs
 
 #### Third party VPN's and internal leaks
 Many companies or people at home can use a variety of methods in order to protect their system, many of the methods are common practise, e.g. password safety, firewall etc. One method that people will use is setting up a VPN (Vitual Party Network), VPN's are used to allow safe data transfer online, usually when sending data, the packets would have to travel through public domains in order to be successfuly transferred. However, a VPN is a private connection that involves two ip addresses connecting with each other privatly, this means that when the two systems want to transfer files or data to each other, they can go through a private network rather than risking putting it on a public domain in which it could be seen and tracked.
@@ -155,13 +174,3 @@ If a disaster occurs, it is important that the employees know exactly what they 
 
 ### Testing schedule
 By testing regularly it means that the business can see how the disaster recovery operates and they will be able to reflect on the work done by the business and how they delt with the disaster. It also prepares people for the disaster if it does occur and gives people an idea of how the process works ultimatly giving a higher chance of success if a disaster occurs.
-
-
-
-
-
-
-
-
-
-
