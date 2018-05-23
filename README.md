@@ -167,12 +167,21 @@ This process is where the business uploads all work onto the internet in order t
 
 By having a regular update on a public domain, it means that any needs for keeping information can be catered for as well as this it means that the work will remain safe and cannot be copied as it is covered by the copyright act.
 
+If there is not internet to upload work then follow these steps instead
+
+* Turn on systen and log in
+* Open up another text editor e.g. Microsoft Word
+* Write down information that you want to update
+* Save it on a reliable storage device
+* Wait until internet connection is made
+* Copy and paste information into repo and confirm
+
 These procedures are all used to cover different potential vulnerabilities that a system can have, the different stages can only be bypassed if certain procedures are already met, for example unless an ID card is present, the door will not be unlocked. This shows how by having simple security procedures, a company can keep themeselves much safer.
 
 
 
 ## Increasing security in the business
-
+###### This section is about different ways that Reboot Games can use in order to increase security within the business.
 
 ### Network security
 
@@ -190,16 +199,18 @@ By having a static IP address it means that security measures can be added to th
 An Network Address Translation or NAT is a method of giving a device a that is within a private network a public address, the new address will be correctly configured in order to add a layer of security. Because it has this new IP address, the internal IP is hidden and when the network is accessed, it will be accessed by the new public IP instead of the private one, this can add more security to some attacks as the IP address can be targeted in order to access the device however with the public address covering the private.
 
 ### Potential impact to IT security of incorrect configuration of firewall policies and third party VPNs
+###### This section will be about the different forms of dangers when dealing with VPN's and incorrectly configurd firewalls.
 
 #### Third party VPN's and internal leaks
 Many companies or people at home can use a variety of methods in order to protect their system, many of the methods are common practise, e.g. password safety, firewall etc. One method that people will use is setting up a VPN (Vitual Party Network), VPN's are used to allow safe data transfer online, usually when sending data, the packets would have to travel through public domains in order to be successfuly transferred. However, a VPN is a private connection that involves two ip addresses connecting with each other privatly, this means that when the two systems want to transfer files or data to each other, they can go through a private network rather than risking putting it on a public domain in which it could be seen and tracked.
 
 Whilst having these implemented are extremely useful for whoever sets it up, there can be very big drawbacks when using third party VPN's, since it is a private network, it needs to have a provider, many different companies offer VPN's however it can be quite risky when acquiring a VPN this way. This is because whilst it is a private network, there are many ways that the data within this network can be leaked. Whether by accident or intentional, there can be leaks of data that can betray the entire point of the private network and can impact a company quite heavily depending on the type of data leaked, if the data is extremely important then it could potentially be fatal for the business.
 
-#### Database
+#### Wrong firewall configuation
 VPN's can keep data safe when being transferred across systems, however it isn't the only thing that can protect data when being transferred, it is common knowledge of what firewalls do, they protect your computer from bad packets that are coming into the system. However because of how it functions by allowing access to some packets and blocking packets that aren't allowed in, whether it is because they are harmful or because it is against the admins rules. If the firewall in configured incorrectly, it can mean that many packets that are not harmful but actually important can be lost when sent, this can cause many private data to be lost that is vital for the user. Having data lost within the system that is important to certain projects can cause many different problems ranging from trivial to fatal, also from the other side, properly configured firewalls keep malicious packets out whereas firewalls that are not properly configured will allow malicious packets in after thinking they are good.
 
 ## Disaster recovery
+###### This section will be about different recovery steps when a disaster occurs within Reboot Games
 
 When dealing with risks in a business, there are moments in which if the risk is successful in hindering the business in any major way, then the business must have plans ready to make sure that the damage can be contained and managed so that it does not prove fatal for the business. There are many different steps to make sure that this process of recovery is successful.
 
